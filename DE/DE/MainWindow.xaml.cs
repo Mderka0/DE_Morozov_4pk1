@@ -52,7 +52,7 @@ namespace DE
             }
             else
             {
-                Guest g = new Guest();
+                Captcha g = new Captcha();
                 g.Show();
                 this.Close();
             }
